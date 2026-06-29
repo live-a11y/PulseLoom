@@ -4,10 +4,12 @@ Standalone desktop tool for sequencing OSC control data over time — for experi
 
 PulseLoom is part of Liu Hao's personal software and music technology archive, which includes iOS music tools, audiovisual systems, creative coding projects, and experimental control software.
 
-**Official website:** https://liuhao-art.com/
-**Apps & Systems archive:** https://liuhao-art.com/apps/apps.html
-**Download (Windows, v0.210):** https://github.com/live-a11y/PulseLoom/releases/tag/v0.210
-**Repository / Docs:** https://github.com/live-a11y/PulseLoom
+## Links
+
+* **Official website:** https://liuhao-art.com/
+* **Apps & Systems archive:** https://liuhao-art.com/apps/apps.html
+* **Download (Windows, v0.210):** https://github.com/live-a11y/PulseLoom/releases/tag/v0.210
+* **Repository / Docs:** https://github.com/live-a11y/PulseLoom
 
 ![PulseLoom UI](screenshort_PulseLoom_2.png)
 
@@ -15,7 +17,7 @@ PulseLoom is part of Liu Hao's personal software and music technology archive, w
 
 PulseLoom helps you design and play back control timelines, curves, and events that drive external engines via OSC.
 
-It sits between your ideas and your sound engine — such as Max/MSP, Csound, SuperCollider, Unreal Engine, or other OSC-compatible systems — as a focused control layer for experimental music and interactive audiovisual work.
+It sits between your ideas and your sound engine — such as Max/MSP, Csound, SuperCollider, etc. — as a focused control layer for experimental music and interactive audiovisual work.
 
 ## Key features
 
