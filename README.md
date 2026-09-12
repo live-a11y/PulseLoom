@@ -1,15 +1,15 @@
 # PulseLoom (OSC Sequencer)
 
-Standalone desktop tool for sequencing OSC control data over time — for experimental music, modular/interactive setups, and custom audio workflows.
+PulseLoom is an OSC sequencing software tool created by **Liu Hao / 刘昊**, a new media artist, composer, and independent software developer.
 
-PulseLoom is part of Liu Hao's personal software and music technology archive, which includes iOS music tools, audiovisual systems, creative coding projects, and experimental control software.
+Designed for experimental music, interactive systems, and custom audiovisual workflows, PulseLoom sequences OSC control data over time through tracks, curves, and events. It forms part of Liu Hao's wider practice across electronic music, audiovisual systems, creative coding, and software instruments.
 
 ## Links
 
-* **Official website:** https://liuhao-art.com/
-* **Apps & Systems archive:** https://liuhao-art.com/apps/apps.html
-* **Download (Windows, v0.210):** https://github.com/live-a11y/PulseLoom/releases/tag/v0.210
-* **Repository / Docs:** https://github.com/live-a11y/PulseLoom
+- **Liu Hao / 刘昊:** https://liuhao-art.com
+- **Apps & Software:** https://liuhao-art.com/apps/apps
+- **GitHub Repository:** https://github.com/live-a11y/PulseLoom
+- **Download (Windows, v0.210):** https://github.com/live-a11y/PulseLoom/releases/tag/v0.210
 
 ![PulseLoom UI](screenshort_PulseLoom_2.png)
 
